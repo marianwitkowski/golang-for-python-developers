@@ -1,7 +1,7 @@
 # Język GoLang dla programistów Python
 
 ## Od Autora:
-Może język Golang nie dorównuje jeszcze popularnością Pythonowi czy Javascript, ale moim zdaniem jest to technologia, która najlpszy czas ma jeszcze przed sobą. Wg indeksu **TIOBE Golang** przesunął się w ciągu ostatniego roku z pozycji 13 na 7. Na pewno przyczynkiem do takiej pozycji jest zainteresowanie tym językiem tuzów Internetu oraz nadal rosnąca popularność usług chmurowych, a co za tym idzie technologii około DevOps'owych.
+Może język Golang nie dorównuje jeszcze popularnością Pythonowi czy Javascript, ale moim zdaniem jest to technologia, która najlepszy czas ma jeszcze przed sobą. Wg indeksu **TIOBE Golang** przesunął się w ciągu ostatniego roku z pozycji 13 na 7. Na pewno przyczynkiem do takiej pozycji jest zainteresowanie tym językiem tuzów Internetu oraz nadal rosnąca popularność usług chmurowych, a co za tym idzie technologii około DevOps'owych.
 
 **Używanie niniejszego materiału w celach szkoleniowych jest dozwolone pod warunkiem podania źródła niniejszego repozytorium oraz imienia i nazwiska autora.**
 
